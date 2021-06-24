@@ -1,1 +1,1 @@
-Prueba conflictos
+Cambio en el archivo 06 para resolver conflictos :) 
